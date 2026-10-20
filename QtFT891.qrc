@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/QtFT891">
+        <file alias="Play">E:/Downloads/play.png</file>
+        <file alias="Pause">E:/Downloads/211871_pause_icon.png</file>
+        <file alias="Record">E:/Downloads/4737443_mic_microphone_podcast_record_voice_icon.png</file>
+        <file alias="StopRecording">E:/Downloads/4737442_disable_microphone_mute_record_voice_icon.png</file>
+        <file alias="IDI_ICON1">icon.ico</file>
+    </qresource>
+</RCC>
